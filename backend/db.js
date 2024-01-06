@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const url = 'mongodb+srv://vinekmaurya2329:vinek7068594746@cluster0.5iwx2uw.mongodb.net/quora-clone-mern'
+const url =process.env.URL
 
 
 
